@@ -1,3 +1,6 @@
 print('work1 is End')
 print('work2 is End')
 print('work3 is End')
+print('work4 is end')
+print('work5 is end')
+print('work6 is end')
